@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Coinsult/Coinsult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the unique official github of Coinsult, please check our github on our official website: https://coinsult.net/
 
-Here are some ideas to get you started:
+Coinsult provides the following services 🎯:
+• Smart Contract Auditing
+• KYC (Coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to request an audit 🔍 ?
+
+You can get a quote for an audit dm @coinsult_tg on telegram or simply fill in the form on the website https://coinsult.net/request-audit/
+
+Official Links 🔗:
+• Website: https://coinsult.net/
+• Telegram: https://t.me/coinsult_tg
