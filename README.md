@@ -2,7 +2,7 @@
 
 This is the unique official github of Coinsult, please check our github on our official website: https://coinsult.net/
 
-Coinsult provides the following services 🎯:
+Coinsult provides the following services 🎯:<br>
 • Smart Contract Auditing
 • KYC (Coming soon)
 
